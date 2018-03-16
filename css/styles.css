@@ -1,0 +1,38 @@
+h1 {
+  color: red;
+  font-style: italic;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  font-family: inherit;
+}
+
+h3 {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-image: url('../image/webwallpaper.jpg');
+  background-size: 1500px;
+}
+
+p {
+  color: white;
+}
+
+.intro {
+  background-color: black;
+}
+
+.intro {
+  background-color: black;
+}
+
+ol {
+  color: white;
+}
